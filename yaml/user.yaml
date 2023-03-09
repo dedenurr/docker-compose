@@ -1,0 +1,15 @@
+firstname: Dede
+lastname: Nurrahman
+hobbies:
+  - Coding
+  - Reading
+  - Gaming
+address:
+  street: Jl Kenangan
+  city: Cinta
+  country: Indonesia 
+wallet:
+  - type: cash
+    ammount: 1000000
+  - type: debit
+    ammount: 2000000
